@@ -2,3 +2,12 @@
 
 
 2. The role of the scrum master is to help the team with all scrum related tasks such as JIRA tooling, facilitating sprints and meetings. The product owner's responsibilities are to set direction for the team, handle release management and stakeholder management.
+
+3. Spring planning meeting: 1) Determine what to complete in the coming sprint
+   		            2) Move stories in sprint scope from backlog to current sprint
+
+   Daily Scrum/Standup meeting: 1) Short meeting that happens everyday of the sprint
+				2) Team members discuss work completed, work plan for the day and 				           any blockers
+
+   Sprint Retrospective meeting: 1) Occurs at the end of the sprint
+				 2) Discuss work complete and move incomplete work to backlog
