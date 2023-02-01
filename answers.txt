@@ -1,3 +1,4 @@
 1. The pros of Agile are that it is more flexible and has better communication with the project team. The cons of Agile are lack of documentation, which can lead to slower progress, and it is hard to predict because it relies on continous improvement and customer feedback.
 
 
+2. The role of the scrum master is to help the team with all scrum related tasks such as JIRA tooling, facilitating sprints and meetings. The product owner's responsibilities are to set direction for the team, handle release management and stakeholder management.
