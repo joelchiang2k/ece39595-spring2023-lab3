@@ -1,1 +1,3 @@
-1ssdsda
+1. The pros of Agile are that it is more flexible and has better communication with the project team. The cons of Agile are lack of documentation, which can lead to slower progress, and it is hard to predict because it relies on continous improvement and customer feedback.
+
+
