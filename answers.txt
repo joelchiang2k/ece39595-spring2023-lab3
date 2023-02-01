@@ -11,3 +11,5 @@
 
    Sprint Retrospective meeting: 1) Occurs at the end of the sprint
 				 2) Discuss work complete and move incomplete work to backlog
+
+4. Epic captures a large body of work that can be broken down into several smaller stories. A story is a software system requirement that is expressed in a few short sentences. A bug indicates that there is something malfunctioning in a software and it needs to be resolved or fixed. A task issue represents the work that needs to be done.
